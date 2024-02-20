@@ -1,5 +1,4 @@
 package dat3.players.entity;
-
 import jakarta.persistence.*;
 
 
